@@ -1,0 +1,11 @@
+[package]
+name = "xornn"
+version = "0.1.0"
+authors = ["xrop <xrop@xrop.me>"]
+edition = "2018"
+description = "XOR classifier for educational purposes"
+repository = "https://gitlab.com/xrop/xornn.git"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+rand = "0.7"
